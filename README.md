@@ -11,7 +11,7 @@ To begin:
 Good luck!
 
 # *Part 1: General Questions*
-1. How would you implement devops for database - maintain history, releases, version control
+1. How would you implement devops for Mןicrosoft SQL Server Database - maintain history, releases, version control
 2. What is role of promote stage in ci-cd process.
 3. Suppose there is an app which stores state in its memory - you want to enable working with multiple instance of this app at the same time with high availability - how will you achieve that?
 4. How do you perform a Kubernetes upgrade with zero downtime?
