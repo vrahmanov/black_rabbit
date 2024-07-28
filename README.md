@@ -24,7 +24,8 @@ Good luck!
 
 2. **Nginx Deployment:**
    - Deploy nginx using helm this chart [nginx Helm](https://github.com/kubernetes/ingress-nginx/blob/main/charts/ingress-nginx).
-   - When you will deploy the chart as DaemonSet when not, what are the disatvantage/advantage of that. What will you choose with aws load balancer
+   - When you will deploy the chart as DaemonSet, when not. What are the disatvantage/advantage of a DaemonSet. What will you choose if you need to use aws load balancer
+   - How will you deploy the aws load balancer to work with eks
 
 3.  **App Deployment:**
     - Deploy Jenkins (can be other app you choose) with helm [Jenkins Helm](https://github.com/jenkinsci/helm-charts/blob/main/charts/jenkins). 
